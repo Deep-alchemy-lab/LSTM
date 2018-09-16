@@ -8,3 +8,8 @@ Table of Content:
   1.1
   1.2
   1.3
+
+2. Architecture
+
+3.
+
