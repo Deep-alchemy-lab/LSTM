@@ -1,4 +1,5 @@
 # LSTM
+LSTM basic code (Explained)
 
 a. Introduction
 
@@ -23,7 +24,6 @@ https://arxiv.org/pdf/1503.0469.pdf
 
 En general todas las variantes son similares, aun asi, hay LSTM's que funcionan mejor en ciertas tareas que otros.  
 
-LSTM basic code (Explained)
 
 Table of Content:
 
