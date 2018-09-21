@@ -4,7 +4,7 @@ a. Introduction
 
 El LSTM es un tipo de Recurrent Neural Network. 
 
-La idea del RNN es que pueda ser capaz de conectar informacion previa a la tarea actual. Tiene serias problematicas 
+Los RNN son capaces de conectar informacion previa a la tarea actual. Tiene serias problematicas 
 a medida que crecen los gaps, que evitan que el algoritmo conecte la informacion pasada. 
 
 El LSTM logra solucionar esta problematica. El LSTM es capaz de aprender dependencias de largo plazo, recordando informacion por
