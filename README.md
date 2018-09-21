@@ -1,7 +1,7 @@
 # LSTM
 LSTM basic code (Explained)
 
-a. Introduction
+  a. Introduction
 
 El LSTM es un tipo de Recurrent Neural Network. 
 
@@ -34,9 +34,9 @@ Table of Content:
   1.3
 
 2. Architecture
-El modelo tiene 5 componentes principales: 
+  El modelo tiene 5 componentes principales: 
 
-2.a. Celula de estado (Ct): Esto representa la memoria interna, la cual guarda informacionn en las memorias de corto plazo y largo plazo
+2.a. Celula de estado (Ct): Esto representa la memoria interna, la cual guarda informacionn en las memorias de corto plazo y largo  plazo
 
 2.b. Estado oculto(ht): 
 
