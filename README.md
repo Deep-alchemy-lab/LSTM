@@ -17,6 +17,7 @@ Es importante aclara que existen multiples versiones del LSTM, en los siguientes
 
 An Empirical Exploration of Recurrent Network Architectures:
 http://proceedings.mlr.press/v37/jozefowicz15.pdf
+
 LSTM: A Search Space Odyssey:
 https://arxiv.org/pdf/1503.0469.pdf
 
