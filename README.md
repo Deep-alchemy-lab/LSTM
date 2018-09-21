@@ -34,6 +34,14 @@ Table of Content:
   1.3
 
 2. Architecture
+El modelo tiene 5 componentes principales: 
+
+Celula de estado (Ct): Esto representa la memoria interna, la cual guarda informacionn en las memorias de corto plazo y largo plazo
+Estado oculto(ht): 
+Puerta de entrada (it): Decide cuanta informacion del flujo actual entra a la celula de estado
+Puerta de olvido (ft): Decide cuanta informacion de inflow de la entrada actual y de celulas previas entra a la celula de estado
+Puerta de salida (ot): Decide cuanta informacion, de la celula de estado actual, pasa al estado oculto, de tal manera que el LSTM 
+pueda escoger el tipo de memoria que requiera (LT o ST)
 
 3.
 Anexo. 
